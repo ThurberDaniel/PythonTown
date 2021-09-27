@@ -3,7 +3,8 @@ year = 9000
 
 
 def triple(word):
-    print(word*4)
+    for x in range(6):
+        print(x)
 
 
 triple("King")
