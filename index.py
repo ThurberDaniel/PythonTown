@@ -2,9 +2,10 @@
 year = 9000
 
 
-def triple(word):
+def triple():
+    z = 1
     for x in range(6):
-        print(x)
+        print(x+z)
 
 
-triple("King")
+triple()
