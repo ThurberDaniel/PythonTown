@@ -5,13 +5,6 @@ numbers = [76, 83, 16, 69, 52, 78, 10, 77, 45, 52, 32, 17, 58, 54, 79, 72, 55, 5
 
 class Car:
     def __init__(self, year, make, model):
-        self.year = year
-        self.make = make
-        self.model = model
-
-
-Car.year = 1990
-Car.make = "Honda"
-Car.model = "Civic"
-
-print(Car.year)
+        self.year = 1990
+        self.make = "Honda"
+        self.model = "Civic"
