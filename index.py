@@ -8,3 +8,6 @@ class Car:
         self.year = 1990
         self.make = "Honda"
         self.model = "Civic"
+
+
+print("end of examples")
